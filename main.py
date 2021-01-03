@@ -11,4 +11,4 @@ if __name__=="__main__":
             app_icon=r"C:\Users\AMARTYA PANDEY\PycharmProjects\Eye_Caring_Remainder_Application\EYES.ico",
             timeout=15
         )
-        time.sleep(60)
+        time.sleep(60)  #Remainder Runs in loop after every 60 seconds
