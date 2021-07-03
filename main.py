@@ -1,7 +1,7 @@
 # CONTRIBUTED BY AMARTYA PANDEY 27TH DECEMBER 2020
 import time
 
-from plyer import notification  # PLYER IS AN EXTERNAL MODULE THAT INTERACTS WITH HARDWARE for Notification
+from plyer import notification  # PLYER IS AN EXTERNAL MODULE THAT INTERACTS WITH HARDWARE for Notification Pop out
 
 if __name__=="__main__":
     while True:
